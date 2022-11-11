@@ -1,0 +1,64 @@
+body{
+    background-color: black;
+  }
+  header{
+  display: flex;
+  justify-content: space-between;
+  }
+  .logo{
+    align-content: center;
+    width: 500px;
+    height: 300px;
+    }
+  li{
+    display: inline-flex;
+  
+    width: 100px;
+  }
+  .color{
+    color: white;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+  }
+  nav{
+    font-size: 15px;
+    block-size: 100%;
+  }
+  .barra{
+    display: flex;
+    justify-content: space-between;
+  }
+  .border{
+    color: white;
+    padding: 7px;
+    width: 265px;
+    justify-content: center;
+  }
+  section{
+    display: flex;
+    justify-content: center;
+  }
+  .tamaño{
+    align-content: center;
+    
+  }
+  .border:hover{
+    color: red;
+  }
+  footer{
+    display: flex;
+    color: white;
+    width: 100%;
+    justify-content: flex-end;
+  }
+  .Iniciar{
+    color: orange;
+  }
+  .Derechos{
+    color: orange;
+  }
+
+
+  
+  

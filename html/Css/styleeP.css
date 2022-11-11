@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+}
+.logo{
+    width: 200px;
+    height: 0px;
+    color: white;
+}
+
+.Peliculas{
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+    width: 1300px;
+    color: rgb(185, 121, 0);
+}
+section{ 
+    justify-content: center;
+    align-items: center;
+    width: 1300px;
+    color: rgb(226, 121, 0);
+}
+.ordenfila2{
+    display: flex;
+    justify-content: space-around;
+}
+.Peli{
+    position: relative;
+    float: left;
+    width: 200px;
+    height: 400px;
+}
